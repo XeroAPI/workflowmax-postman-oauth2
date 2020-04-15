@@ -51,7 +51,7 @@ Add the scopes required to the `scopes` environment variable.
 ### 5. Ensure you have API Access privileges
 Go to your [staff list in WorkflowMax](https://my.workflowmax.com/admin/resourcelist.aspx) and click on your user name. Scroll to the very bottom of the page and tick "Authorise 3rd Party Full Access"
 
-![Add API access privileges](images/authorise_3rd_party_access.PNG)
+![Add API access privileges](images/authorise_3rd_party_access.png)
 
 ### 6. Generate your access token
 1. Double-click on the GET Get Started request under the Xero OAuth 2.0 Collection
